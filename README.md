@@ -1,4 +1,4 @@
-# Ellitopia-Modpack
+# Ellitopia Modpack
 The Ellitopia Minecraft Modpack is a collection of mods and relevant config files used by MultiMC to create the Ellitopia minecraft server.
 This modpack works perfectly in single player mode, but is best enjoyed on the Ellitopia Minecrat Server.
 Anyone who wants to play on the server will have to have the latest version of the mods to sign in.
