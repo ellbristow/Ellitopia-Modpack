@@ -1,0 +1,12 @@
+.minecraft/.mixin.out
+.minecraft/crash-reports
+.minecraft/journeymap
+.minecraft/logs
+.minecraft/optionsof.txt
+.minecraft/paintings
+.minecraft/realms_persistence.json
+.minecraft/saves
+.minecraft/screenshots
+.minecraft/servers.dat
+.minecraft/usercache.json
+.minecraft/usernamecache.json

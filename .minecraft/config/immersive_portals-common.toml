@@ -1,0 +1,14 @@
+#The Range of Existing Frame Searching When Generating Nether Portal
+#Range: 32 ~ 1000
+portal_searching_range = 128
+#Longer Hand Reach In Creative
+long_reach_in_creative = true
+#Load Remote Chunks Actively
+actively_load_remote_chunks = true
+#Teleportation Debug
+teleportation_debug = false
+#Load Fewer Chunks
+load_fewer_chunks = false
+#Multi Threaded Nether Portal Searching
+multi_threaded_nether_portal_searching = true
+
