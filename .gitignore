@@ -52,3 +52,4 @@ natives/OpenAL32.dll.git
 natives/OpenAL32.dll.sha1
 natives/SAPIWrapper_x64.dll
 natives/SAPIWrapper_x86.dll
+instance.cfg
