@@ -1,3 +1,5 @@
+.git
+.gitignore
 .minecraft/.mixin.out
 .minecraft/coremods
 .minecraft/crash-reports
@@ -5,14 +7,17 @@
 .minecraft/journeymap
 .minecraft/logs
 .minecraft/minecolonies
+.minecraft/optionsof.txt
 .minecraft/paintings
 .minecraft/realms_persistence.json
 .minecraft/saves
 .minecraft/screenshots
-.minecraft/options.txt
+.minecraft/scripts
 .minecraft/server-resource-packs
 .minecraft/servers.dat
 .minecraft/structurize
 .minecraft/texturepacks
 .minecraft/usercache.json
 .minecraft/usernamecache.json
+README.md
+patches
