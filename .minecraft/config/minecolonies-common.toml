@@ -147,35 +147,35 @@
 [combat]
 	#The minimum number of nights between raids. [Default: 1]
 	#Range: 1 ~ 30
-	minimumnumberofnightsbetweenraids = 1
+	minimumnumberofnightsbetweenraids = 3
 	#Days until the pirate ships despawn again. [Default: 3]
 	#Range: 1 ~ 10
-	daysuntilpirateshipsdespawn = 3
+	daysuntilpirateshipsdespawn = 2
 	#minecolonies.config.citizencallforhelp.comment
 	citizencallforhelp = true
 	#Whether or not to barbarians can break, scale, bridge obstacles. [Default: true]
-	dobarbariansbreakthroughwalls = true
+	dobarbariansbreakthroughwalls = false
 	#Should Mobs attack citizens? [Default: false
-	mobattackcitizens = true
+	mobattackcitizens = false
 	#The max size of a barbarian horde. [Default: 20]
 	#Range: 6 ~ 400
 	maxBarbarianSize = 20
 	#Health multiplier for all Guards. [Default: 1.0]
 	#Range: 0.1 ~ 5.0
-	guardhealthmult = 1.0
+	guardhealthmult = 1.5
 	#minecolonies.config.barbarianhordedifficulty.comment
 	#Range: 0 ~ 10
-	barbarianhordedifficulty = 5
+	barbarianhordedifficulty = 4
 	#The average amount of nights between raids. [Default: 3]
 	#Range: 1 ~ 10
-	averagenumberofnightsbetweenraids = 3
+	averagenumberofnightsbetweenraids = 6
 	#Damage multiplier for Knight Guards. [Default: 1.0]
 	#Range: 0.1 ~ 5.0
-	knightdamagemult = 1.0
+	knightdamagemult = 1.5
 	#Turn on Minecolonies pvp mode, attention (colonies can be destroyed and can be griefed under certain conditions). [Default: false]
 	pvp_mode = false
 	#minecolonies.config.shouldraiderbreakdoors.comment
-	shouldraiderbreakdoors = true
+	shouldraiderbreakdoors = false
 	#Max Y level for Barbarians to spawn. [Default: 200]
 	#Range: 1 ~ 500
 	maxyforbarbarians = 200
@@ -183,7 +183,7 @@
 	dobarbariansspawn = true
 	#Damage multiplier for Ranger Guards. [Default: 1.0]
 	#Range: 0.1 ~ 5.0
-	rangerdamagemult = 1.0
+	rangerdamagemult = 1.5
 	#The spawn size of a barbarian horde. [Default: 5]
 	#Range: 1 ~ 10
 	spawnbarbariansize = 5
