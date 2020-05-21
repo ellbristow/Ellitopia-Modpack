@@ -10,4 +10,6 @@
 .minecraft/servers.dat
 .minecraft/usercache.json
 .minecraft/usernamecache.json
+.minecraft/config/jei/bookmarks.ini
 natives
+instance.cfg
