@@ -105,10 +105,10 @@ key_key.mekanism.armor_mode:key.keyboard.g
 key_key.mekanism.feet_mode:key.keyboard.h
 key_key.mekanism.details:key.keyboard.left.shift
 key_key.mekanism.description:key.keyboard.n:SHIFT
-key_key.mekanismadditions.voice:key.keyboard.u
 key_Key to open upgrade inventory:key.keyboard.b
 key_key.caelus.toggle.desc:key.keyboard.unknown
 key_key.caelus.trigger.desc:key.keyboard.unknown
+key_key.mekanismadditions.voice:key.keyboard.u
 key_crafts.key.up:key.keyboard.space
 key_crafts.key.down:key.keyboard.left.control
 key_crafts.key.right:key.keyboard.left.bracket
