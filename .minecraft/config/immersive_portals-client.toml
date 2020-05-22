@@ -11,4 +11,8 @@ render_yourself_in_portal = true
 correct_cross_portal_entity_rendering = true
 #See the Wiki to Know How to Configure it
 dimension_render_redirect = "immersive_portals:alternate1->minecraft:overworld\nimmersive_portals:alternate2->minecraft:overworld\nimmersive_portals:alternate3->minecraft:overworld\nimmersive_portals:alternate4->minecraft:overworld\nimmersive_portals:alternate5->minecraft:overworld\n"
+#Remove Sky Edge in Dimension Stack
+edgeless_sky = false
+#Remove the glass texture on mirrors
+pure_mirror = false
 
