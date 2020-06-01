@@ -22,3 +22,15 @@ This modpack requires:
 If you spot an issue, please check the [Issues](https://github.com/ellbristow/Ellitopia-Modpack/issues) to see if it has already been reported, and if not, create a new report providing as much detail as possible, including the release version, and error or crash logs etc.
 
 Please check, and feel free to contribute to the [Wiki](https://github.com/ellbristow/Ellitopia-Modpack/wiki) (WIP) for details of what each mod does and how it is used.
+
+
+## Important 
+This modpack does not support shaders. It is a optifine client. But it doesn't support shaders, due to mod incompatibilities
+
+If you wan't to use the included discord rich presence. Thn you need to:
+1. navigate into the config folder (you can find it in .minecraft)
+1. find the config called "craftpresence.properties" and open it
+1. find line 32 where it says "Client_ID="
+1. open discord and right click on you name
+1. you should be able to "copy ID"
+1. then paste you ID into the "craftpresence.properties" file at line 32 after the = sign
