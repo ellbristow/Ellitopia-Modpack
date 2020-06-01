@@ -25,8 +25,6 @@ Please check, and feel free to contribute to the [Wiki](https://github.com/ellbr
 
 
 ## Important 
-This modpack does not support shaders. It is a optifine client. But it doesn't support shaders, due to mod incompatibilities
-
 If you wan't to use the included discord rich presence. Thn you need to:
 1. navigate into the config folder (you can find it in .minecraft)
 1. find the config called "craftpresence.properties" and open it
