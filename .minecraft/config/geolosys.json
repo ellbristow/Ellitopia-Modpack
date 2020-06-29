@@ -256,7 +256,7 @@
       ],
       "yMin": 45,
       "yMax": 70,
-      "chance": 4,
+      "chance": 6,
       "size": 64,
       "dimBlacklist": [
         "the_nether",
@@ -307,7 +307,7 @@
       ],
       "yMin": 16,
       "yMax": 50,
-      "chance": 5,
+      "chance": 6,
       "size": 72,
       "dimBlacklist": [
         "the_nether",
