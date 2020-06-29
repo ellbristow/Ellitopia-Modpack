@@ -19,8 +19,6 @@ This modpack requires:
 1. Enter **mc.ellitopia.com** as the "Server Address" and name the server whatever you like
 1. Enjoy!
 
-[You can see server status here](https://status.ellitopia.com)
-
 If you spot an issue, please check the [Issues](https://github.com/ellbristow/Ellitopia-Modpack/issues) to see if it has already been reported, and if not, create a new report providing as much detail as possible, including the release version, and error or crash logs etc.
 
 Please check, and feel free to contribute to the [Wiki](https://github.com/ellbristow/Ellitopia-Modpack/wiki) (WIP) for details of what each mod does and how it is used.
